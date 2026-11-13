@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+
+# Dependencies and build output (not used by this project, but safe defaults)
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+/freebuff-sites-build/
